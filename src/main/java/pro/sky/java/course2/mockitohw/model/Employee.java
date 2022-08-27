@@ -1,4 +1,4 @@
-package pro.sky.java.course2.mockitohw;
+package pro.sky.java.course2.mockitohw.model;
 
 import java.util.Objects;
 
